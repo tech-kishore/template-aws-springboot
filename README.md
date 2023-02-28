@@ -1,1 +1,1 @@
-# Template-aws-spring-boot
+# Template: AWS & Spring-boot
