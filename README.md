@@ -9,6 +9,6 @@
 > Rest APIs with Full-stack H2 in AWS - Documentation : <a href="https://github.com/tech-kishore/template-aws-springboot/tree/main/03-rest-api-full-stack-h2" target="_blank">README.md</a>
 
 **Step 4**: Deploy 04-frontend-react app in aws s3
-> Rest APIs with Full-stack H2 in AWS - Documentation : <a href="https://github.com/tech-kishore/template-aws-springboot/tree/main/04-frontend-react" target="_blank">README.md</a>
+> React Front-end App in AWS - Documentation : <a href="https://github.com/tech-kishore/template-aws-springboot/tree/main/04-frontend-react" target="_blank">README.md</a>
 
 
